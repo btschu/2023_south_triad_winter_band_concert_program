@@ -154,7 +154,7 @@ h6 {
   font-weight: 300;
   letter-spacing: 1px;
   /* text-transform: uppercase; */
-  font-family: cursive;
+  font-family: "Henny Penny", cursive;
 }
 
 #header .logo span {
@@ -431,11 +431,11 @@ h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 40px;
+  font-size: 60px;
   font-weight: 1000;
   line-height: 56px;
   color: #fff;
-  font-family: fantasy;
+  font-family: "Henny Penny", fantasy;
 }
 
 #hero h1 span {
@@ -582,7 +582,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 24px;
+    font-size: 34px;
     line-height: 36px;
   }
 
@@ -658,7 +658,7 @@ section {
   margin: 0;
   font-size: 46px;
   font-weight: 700;
-  font-family: fantasy;
+  font-family: "Henny Penny", fantasy;
   color: #cda45e;
 }
 
@@ -731,7 +731,7 @@ section {
   font-weight: 700;
   color: #cda45e;
   margin-bottom: 20px;
-  font-family: cursive;
+  font-family: "Henny Penny", cursive;
 }
 
 .students .box h4 {
@@ -774,7 +774,7 @@ section {
 
 #program h2 span {
   color: #cda45e;
-  font-family: cursive;
+  font-family: "Henny Penny", cursive;
 }
 
 .card {
@@ -1036,7 +1036,7 @@ section {
 }
 
 #footer h3 {
-  font-family: cursive;
+  font-family: "Henny Penny", cursive;
   font-size: 44px;
 }
 
