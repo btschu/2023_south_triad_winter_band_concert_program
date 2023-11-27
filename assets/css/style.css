@@ -730,6 +730,7 @@ section {
 
 .table {
   margin-bottom: 0;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 /* soloists */
@@ -738,8 +739,7 @@ section {
   font-style: italic;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  list-style: none;
-  /* list-style: "🥁"; */
+  /* list-style: none; */
   color: rgba(255, 255, 255, 0.5);
 }
 
