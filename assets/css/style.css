@@ -145,7 +145,7 @@ h6 {
   line-height: 1;
   font-weight: 300;
   letter-spacing: 1px;
-  font-family: "Caveat", cursive;
+  font-family: "Kaushan Script", cursive;
 }
 
 #header .logo span {
@@ -640,9 +640,9 @@ section {
 --------------------------------------------------------------*/
 #students h4 {
   color: #cda45e; 
-  font-size: 18px;
+  font-size: 28px;
   text-decoration: underline;
-  font-family: "Playfair Display", serif;
+  font-family: "Caveat", serif;
 }
 
 .students #students-filters {
@@ -694,7 +694,7 @@ section {
   font-weight: 700;
   color: #cda45e;
   margin-bottom: 20px;
-  font-family: "Caveat", cursive;
+  font-family: "Kaushan Script", cursive;
 }
 
 .students .box h4 {
